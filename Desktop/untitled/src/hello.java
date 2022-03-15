@@ -1,3 +1,3 @@
 public class hello {
-    int sum = 1 + 1;
+    int sum = 1 - 1;
 }
